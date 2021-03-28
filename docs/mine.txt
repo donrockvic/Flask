@@ -1,0 +1,6 @@
+
+
+Models are internal representation of an entity
+Resources are external representation of an entity
+
+API calls responses, but developers uses models to control data
